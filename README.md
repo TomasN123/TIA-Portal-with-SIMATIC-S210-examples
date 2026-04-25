@@ -56,7 +56,7 @@ This example simulates the control of an elevator in a three-story building, dem
 * **Safety:** Simulation of software limit switches to safely stop the cabin.
 
 **PLC Logic Screenshot – Elevator Control:**
-![Elevator Logic](img/exampl.jpeg)
+![Elevator Logic](img/exampl2.jpeg)
 
 ---
 
